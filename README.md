@@ -40,7 +40,9 @@ models/train_classifier.py contains machine learning pipeline that:
     - Exports the final model as a pickle file
 
 3. **Flask Web App:** 
-contains web app allow useres to enter messages and show the classified model results in real time.
+app/run.py contain web app.
+    - Allow useres to enter messages
+    - Show the classified model results in real time.
 
 ## 4. Results <a name="results"></a> 
 Screenshots of the web app.
