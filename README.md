@@ -44,6 +44,11 @@ contains web app allow useres to enter messages and show the classified model re
 
 ## 4. Results <a name="results"></a> 
 Screenshots of the web app.
+![ploty1](https://user-images.githubusercontent.com/93215546/146141376-f64da137-45cc-4e92-9d31-04b401a4cb08.JPG)
+![ploty2](https://user-images.githubusercontent.com/93215546/146141408-f3410cae-18b7-4a49-94ab-2d9d226e7afc.JPG)
+![meessage1](https://user-images.githubusercontent.com/93215546/146141434-456086e6-44b6-4423-84c4-bd4264fd37aa.JPG)
+![result](https://user-images.githubusercontent.com/93215546/146141466-cb89e07f-db61-4973-9f17-db5ab2818a43.JPG)
+
 
 
 
